@@ -1,4 +1,4 @@
-                                                Spam Prediction Machine Learning Project 
+                                               Spam Prediction Machine Learning Project 
 ### Overview:
 
 This machine learning project focuses on the detection of spam messages using advanced Natural Language Processing techniques. 
