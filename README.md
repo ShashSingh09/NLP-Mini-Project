@@ -1,8 +1,8 @@
                                                Spam Prediction Machine Learning Project 
 ### Overview:
 
-This machine learning project focuses on the detection of spam messages using advanced Natural Language Processing techniques. 
-The core components include NLP, CountVectorizer, and word cloud visualization.
+This machine learning project focuses on the detection of spam messages using Natural Language Processing techniques. 
+The core components include NLP, CountVectorizer and wordcloud visualization.
 
 ### Results:
 
